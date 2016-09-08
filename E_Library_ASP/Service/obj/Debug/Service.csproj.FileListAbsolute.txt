@@ -1,0 +1,6 @@
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\Service\bin\Service.dll.config
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\Service\bin\Service.dll
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\Service\bin\Service.pdb
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\Service\obj\Debug\Service.dll
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\Service\obj\Debug\Service.pdb

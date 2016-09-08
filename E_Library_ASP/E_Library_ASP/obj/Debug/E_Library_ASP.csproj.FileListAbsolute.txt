@@ -1,0 +1,10 @@
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\E_Library_ASP\bin\E_Library_ASP.dll.config
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\E_Library_ASP\bin\E_Library_ASP.dll
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\E_Library_ASP\bin\E_Library_ASP.pdb
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\E_Library_ASP\obj\Debug\E_Library_ASP.csprojResolveAssemblyReference.cache
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\E_Library_ASP\obj\Debug\E_Library_ASP.dll
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\E_Library_ASP\obj\Debug\E_Library_ASP.pdb
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\E_Library_ASP\bin\library.mdf
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\E_Library_ASP\bin\library_log.ldf
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\E_Library_ASP\bin\eLibraryServer.dll
+E:\UNSS1\8 семестър\klient_server\Client_Server_2\E_Library_ASP\E_Library_ASP\bin\eLibraryServer.pdb
